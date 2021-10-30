@@ -1,0 +1,5 @@
+.content-block {
+	margin-bottom: var(--spacing64);
+	font-family: var(--serif);
+	font-size: var(--fontSize16);
+}

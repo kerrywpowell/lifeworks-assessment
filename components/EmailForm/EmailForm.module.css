@@ -1,0 +1,24 @@
+.email-form {
+	margin: 1rem 0;
+
+	& form {
+		margin-bottom: 4rem;
+		display: flex;
+		justify-content: center;
+	}
+
+	& .error {
+		color: red;
+	}
+
+	& .form-field {
+		margin-bottom: 1rem;
+	}
+	& .button-container {
+		text-align: center;
+	}
+
+	& .loading {
+		text-align: center;
+	}
+}
